@@ -2,9 +2,9 @@
 
 一步一步学习 go 语言基础。
 
-视频教程：https://space.bilibili.com/276273794/#/
-Gitbook 电子书：https://songjiayang.gitbooks.io/go-basic-courses/content/
-Go 实战交流 QQ 群：694650181 （申请加入请备注“禾木课堂”）
+* 视频教程：https://space.bilibili.com/276273794/#/
+* Gitbook 电子书：https://songjiayang.gitbooks.io/go-basic-courses/content/
+* Go 实战交流 QQ 群：694650181 （申请加入请备注“禾木课堂”）
 
 ### 写在前面
 
