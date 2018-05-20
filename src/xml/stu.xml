@@ -1,0 +1,7 @@
+<Stu note="MyNote">
+	<name>myName</name>
+	<parent>
+		<father>myFather</father>
+		<mother>myMother</mother>
+	</parent>
+</Stu>
